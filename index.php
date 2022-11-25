@@ -164,7 +164,7 @@
       <div class="">
 
       <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
+        <div class="carousel-inner rounded">
 
         <?php 
           $i = 0;
