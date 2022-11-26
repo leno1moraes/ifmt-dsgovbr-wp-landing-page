@@ -160,7 +160,7 @@
   if ( strtoupper(get_theme_mod( 'set_text_habilita_carousel')) == 'S' ):
   ?>
 
-    <div class="container w-<?php echo get_theme_mod( 'set_text_tam_carousel' ); ?> h-<?php echo get_theme_mod( 'set_text_tam_carousel' ); ?>">
+    <div class="container estilop1">
       <div class="">
 
       <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">

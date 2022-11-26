@@ -74,6 +74,18 @@
       a{
         text-decoration: none;
       }
+
+      .estilop1{
+        width: <?php echo get_theme_mod( 'set_text_tam_carousel' ); ?>%;
+        height: <?php echo get_theme_mod( 'set_text_tam_carousel' ); ?>%;
+      }
+
+      @media screen and (max-width: 600px) {
+        .estilop1{
+          width: 100%;
+        }        
+      }
+
     </style>
 
   </head>
